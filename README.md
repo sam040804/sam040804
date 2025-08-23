@@ -78,7 +78,7 @@
 
 <h2>🏆 GitHub Trophies 🏅</h2>
     <p align="center">
- [ <img src="https://github-profile-trophy.vercel.app/?username=sam040804&theme=radical&no-frame=true&margin-w=10&column=7" />](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+ <img src="https://github-profile-trophy.vercel.app/?username=sam040804&theme=radical&no-frame=true&margin-w=10&column=7" />
 </p>
 
 
