@@ -7,7 +7,7 @@
 ---
 
 <div align="center" style="border:2px solid #9b59b6; border-radius:15px; padding:20px; margin:10px; background-color:#1e1e2f;">
-<h1>✨ Areas of Interest 🔮</h1>
+<h2>✨ Areas of Interest 🔮</h2>
 <p>
 🔹 Web & Mobile App Development <br>
 🔹 UI/UX Design & Prototyping <br>
@@ -18,7 +18,7 @@
 </div>
 
 <div align="center" style="border:2px solid #9b59b6; border-radius:15px; padding:20px; margin:10px; background-color:#1e1e2f;">
-## 🚀 Skills 💻
+<h2> 🚀 Skills 💻</h2>
 <p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" />
@@ -59,12 +59,12 @@
 </p>
 
 ---
-## GitHub Top languages used 🏅
+<h2> GitHub Top languages used 🏅</h2>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam040804&layout=compact&theme=radical" width="600"/>
 </p>
 
-## 🔥 GitHub Streak 🌟
+<h2>🔥 GitHub Streak 🌟</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sam040804&theme=radical " width="600"/>
   <img src="https://git.io/streak-stats"/>
@@ -72,9 +72,9 @@
 
 ---
 
-## 🏆 GitHub Trophies 🏅
+<h2></h2> 🏆 GitHub Trophies 🏅</h2>
 <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=sam040804&theme=radical" width="800" height="300"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sam040804&theme=dark" width="800" height="300"/>
     
 </p>
 
