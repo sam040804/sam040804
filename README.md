@@ -76,11 +76,6 @@
 
 ---
 
-<h2>🏆 GitHub Trophies 🏅</h2>
-    <p align="center">
-      https://github-profile-trophy.vercel.app/?username=sam040804&theme=discord
-</p>
-
 
 
 </div>
