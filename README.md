@@ -77,10 +77,11 @@
 ---
 
 <h2>🏆 GitHub Trophies 🏅</h2>
-<p>
-    <img src="https://github-profile-trophy.vercel.app/?username=sam040804&theme=dark" width="800" height="300"/>
-    
+    <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sam040804&theme=radical&no-frame=true&margin-w=10&column=7" />
 </p>
+
+
 
 </div>
 
