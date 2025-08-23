@@ -52,7 +52,7 @@
 </div>
 
 <div align="center" style="border:2px solid #9b59b6; border-radius:15px; padding:20px; margin:10px; background-color:#1e1e2f;">
-## 🪄 My GitHub Stats 📊
+<h2>🪄 My GitHub Stats 📊</h2>
 <p align="center">
 
  <img src="https://github-readme-stats.vercel.app/api?username=sam040804&show_icons=true&theme=radical" width="600"/>
@@ -72,7 +72,7 @@
 
 ---
 
-<h2></h2> 🏆 GitHub Trophies 🏅</h2>
+<h2>🏆 GitHub Trophies 🏅</h2>
 <p>
     <img src="https://github-profile-trophy.vercel.app/?username=sam040804&theme=dark" width="800" height="300"/>
     
