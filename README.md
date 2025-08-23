@@ -1,8 +1,12 @@
 <p align="center">
   👋🏻 Hi, I'm <b>Samyuktha CS</b> 😊<br>
-  👩🏻‍💻 Web Developer | UI/UX Enthusiast | Lifelong Learner 🌟<br>
-  🎓 Final Year Computer Science and Engineering Student at Kumaraguru College of Technology
+  👩🏻‍💻 Lifelong Learner 🌟<br>
+  🎓 Final Year Computer Science and Engineering Student at Kumaraguru College of Technology<br><br>
+  I’m a digital explorer turning ideas into interactive experiences.<br>
+  I love blending creativity with code to craft websites and apps that people enjoy.<br>
+  Forever curious, always learning, and chasing the next big challenge in tech.
 </p>
+
 
 ---
 
