@@ -7,7 +7,7 @@
 ---
 
 <div align="center" style="border:2px solid #9b59b6; border-radius:15px; padding:20px; margin:10px; background-color:#1e1e2f;">
-## ✨ Areas of Interest 🔮
+<h1>✨ Areas of Interest 🔮</h1>
 <p>
 🔹 Web & Mobile App Development <br>
 🔹 UI/UX Design & Prototyping <br>
