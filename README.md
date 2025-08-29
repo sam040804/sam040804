@@ -68,11 +68,6 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam040804&layout=compact&theme=radical" width="600"/>
 </p>
 
-<h2>🔥 GitHub Streak 🌟</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sam040804&theme=radical " width="600"/>
-  <img src="https://git.io/streak-stats"/>
-</p>
 
 ---
 
